@@ -51,7 +51,8 @@ public class MyFTPServer {
 
 
     public void config() {
-
+        System.out.println("Hello World");
+        System.out.println("Hi");
     }
 
     public static void main(String[] args) {
