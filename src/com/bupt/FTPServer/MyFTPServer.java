@@ -53,6 +53,7 @@ public class MyFTPServer {
     public void config() {
         System.out.println("Hello World");
         System.out.println("Hi");
+        System.out.println("第三次修改");
     }
 
     public static void main(String[] args) {
